@@ -157,7 +157,7 @@ interface AGMSenceTimeFilter : AGMVideoSource <AGMVideoSink>
 ```
 
 ## Running the App
-First, create a developer account at [Agora.io](https://dashboard.agora.io/signin/), and obtain an App ID. Update "KeyCenter.m" with your App ID. 
+First, create a developer account at [Agora.io](https://dashboard.agora.io/signin/), and obtain an AppID. To obtain an AppID, you need to create a project. Then you will be able to access the AppID. Update "KeyCenter.m" with your App ID. 
 
 ```
 + (NSString *)AppId {
