@@ -19,9 +19,9 @@ This readme describes the steps and considerations for demonstrating the Agora F
 1. Download [FaceUnity SDK](https://github.com/AgoraIO/FaceUnityLegacy/releases/download/6.6.0/FaceUnitySDK-Windows.zip)
 2. unzip file, place the folder under Agora-Video-With-FaceUnity-Windows, then change Name to FaceUnity.
 
-## Prepare Windows Depencies
-1. Download [windows depencies](https://github.com/AgoraIO/FaceUnityLegacy/releases/download/6.6.0/windows-depencies.zip)
-2. unzip file, copy openssl and ThirdParty under windows-depencies to   Agora-Video-With-FaceUnity-Windows.
+## Prepare Windows Dependencies
+1. Download [windows dependencies](https://github.com/AgoraIO/FaceUnityLegacy/releases/download/6.6.0/windows-depencies.zip)
+2. unzip file, copy openssl and ThirdParty under windows-dependencies to Agora-Video-With-FaceUnity-Windows.
 
 ## Introduction
 
